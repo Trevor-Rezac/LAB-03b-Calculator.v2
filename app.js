@@ -1,5 +1,5 @@
 // import functions and grab DOM elements
-import { add, subtract, multiply, divide, convert } from '../math-utils.js'; 
+import { add, subtract, multiply, divide, convert } from './math-utils.js'; 
 
 // addition section 
 const addNum1 = document.getElementById('add-num-1');
